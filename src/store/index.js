@@ -17,6 +17,7 @@ const rootReducer = (state, action) => {
 const persistConfig = {
   key: 'spotifyStorage',
   storage,
+  blacklist: ['auth', 'content'],
 }
 
 const persistedReducer = persistReducer(persistConfig, rootReducer);
