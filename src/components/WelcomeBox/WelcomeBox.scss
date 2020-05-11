@@ -1,0 +1,13 @@
+.welcome-box {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 32px 0;
+
+  & span {
+    font-size: 16px;
+  }
+
+  & strong {
+    color: #00f387;
+  }
+}

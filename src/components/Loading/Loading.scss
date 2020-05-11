@@ -1,0 +1,108 @@
+.loading {
+  background: transparent;
+  height: 71px;
+  margin: 0 auto 10px;
+  position: relative;
+  width: 71px;
+
+  &__text,
+  & .loading {
+    position: relative;
+    z-index: 2;
+  }
+
+  &__text {
+    animation-delay: 100ms;
+    animation: text-glow 1400ms infinite ease-in;
+    color: #1db954;
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 0 0 0 #1ed760;
+  }
+
+  span {
+    animation: soundBar 1400ms infinite ease-in-out;
+    background: #1db954;
+    border-radius: 2px;
+    bottom: 0;
+    display: block;
+    height: 2px;
+    position: absolute;
+    width: 8px;
+  }
+
+  span:nth-child(1) {
+    left: 0;
+  }
+
+  span:nth-child(2) {
+    animation-delay: 100ms;
+    left: 9px;
+  }
+
+  span:nth-child(3) {
+    animation-delay: 200ms;
+    left: 18px;
+  }
+
+  span:nth-child(4) {
+    animation-delay: 300ms;
+    left: 27px;
+  }
+
+  span:nth-child(5) {
+    animation-delay: 400ms;
+    left: 36px;
+  }
+
+  span:nth-child(6) {
+    animation-delay: 500ms;
+    left: 45px;
+  }
+
+  span:nth-child(7) {
+    animation-delay: 600ms;
+    left: 54px;
+  }
+
+  span:nth-child(8) {
+    animation-delay: 700ms;
+    left: 63px;
+  }
+
+  @keyframes soundBar {
+    0% {
+      background: #1db954;
+      height: 2px;
+    }
+    20% {
+      background: #1ed760;
+      height: 70px;
+    }
+    40% {
+      background: #1db954;
+      height: 2px;
+    }
+    60% {
+      background: #1db954;
+      height: 2px;
+    }
+  }
+}
+
+@keyframes text-glow {
+  0% {
+    color: #1db954;
+    text-shadow: 0 0 0 #1db954;
+  }
+  50% {
+    color: #1ed760;
+    text-shadow: 0 0 5px #1ed760;
+  }
+  100% {
+    color: #1db954;
+    text-shadow: 0 0 0 #1db954;
+  }
+}
