@@ -37,6 +37,7 @@ const Track = ({ track }) => {
   return (
     <div
       className={`track ${isPlaying && 'is-playing'}`}
+      data-testid="track"
       onClick={handleClick}>
       <div className="track__play">
         <div className="track__play__wrapper">

@@ -6,6 +6,7 @@ import Ink from 'react-ink';
 const CategoryItem = ({ id, icon, name, url }) => (
   <div
     className="categories__item"
+    data-testid="category"
     style={{backgroundImage: `url(${icon.url})`}}
   >
     <Link
