@@ -207,8 +207,8 @@ Para que seu teste seja avaliado corretamente na plataforma é necessário que o
     ├── Player
     │   └── Player.jsx ➡️ data-testid="player"
     ├── Playlists
-    │   ├── PlaylistItem.jsx ➡️ data-testid="playlists"
-    │   └── Playlists.jsx ➡️ data-testid="playlist"
+    │   ├── PlaylistItem.jsx ➡️ data-testid="playlist"
+    │   └── Playlists.jsx ➡️ data-testid="playlists"
     ├── Topbar
     │   └── Topbar.jsx ➡️ data-testid="topbar"
     └── Tracks
