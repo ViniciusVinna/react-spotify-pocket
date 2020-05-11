@@ -1,0 +1,50 @@
+.topbar {
+  backface-visibility: hidden;
+  background-color: #060125;
+  display: flex;
+  font-family: 'Raleway', sans-serif;
+  left: 0;
+  padding: 8px 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 9999;
+
+  & .container {
+    align-items: center;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+  }
+
+  & .spotify-brand {
+    height: 30px;
+  }
+
+  & .user {
+    position: relative;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+    &__name {
+      color: #00f387;
+      font-size: 13px;
+      font-weight: bold;
+      margin-right: 8px;
+    }
+
+    &__thumb {
+      border-radius: 50px;
+      border: 1px solid #5c5970;
+      height: 35px;
+      overflow: hidden;
+      width: 35px;
+
+      & img {
+        height: 100%;
+        width: auto;
+      }
+    }
+  }
+}

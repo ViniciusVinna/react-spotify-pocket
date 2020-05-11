@@ -1,0 +1,111 @@
+.login {
+  align-items: center;
+  background-repeat: no-repeat;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  max-height: 100vh;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  &:after,
+  &:before {
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+  &:after {
+    background-color: rgba(0, 0, 0, 0.75);
+    z-index: 2;
+  }
+
+  &:before {
+    background-image: inherit;
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    z-index: 1;
+  }
+
+  & .container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    z-index: 3;
+  }
+
+  &__microcopy {
+    color: white;
+    font-size: 22px;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin: 80px 0;
+    padding: 0;
+    text-align: center;
+
+    & strong {
+      color: #00f387;
+    }
+  }
+
+  @media screen and (min-width: 768px) {
+    align-items: flex-start;
+    justify-content: flex-end;
+    width: calc(100% - 500px);
+
+    &:after {
+      background-color: transparent;
+      box-shadow: inset -1px 0 0 rgba(255, 255, 255, 0.1);
+    }
+
+    & .container {
+      background-color: #060125;
+      display: flex;
+      height: 100%;
+      margin: 0;
+      position: fixed;
+      right: 0;
+      width: 500px;
+    }
+
+    &__microcopy {
+      color: white;
+      font-size: 32px;
+      line-height: 1.2em;
+      text-align: center;
+
+      & strong {
+        display: block;
+      }
+    }
+  }
+
+  & .spotify-brand {
+    width: 180px;
+  }
+
+  &__auth-button {
+    background-color: #00f387;
+    border-radius: 50px;
+    border: 1px solid #00f387;
+    color: #060125;
+    cursor: pointer;
+    display: flex;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    outline: none;
+    padding: 15px 50px;
+    position: relative;
+    text-transform: uppercase;
+    transition: all .2s cubic-bezier(0.4, 0.0, 0.2, 1);
+  }
+}

@@ -1,0 +1,25 @@
+.callback {
+  align-items: center;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  text-align: center;
+
+  &:after {
+    background-color: rgba(0, 0, 0, 0.75);
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+  }
+
+  & .loading {
+    position: relative;
+    z-index: 2;
+  }
+}

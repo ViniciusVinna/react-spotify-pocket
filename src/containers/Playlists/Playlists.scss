@@ -1,0 +1,55 @@
+.playlists {
+  display: flex;
+
+  &__content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 16px 0;
+  }
+
+  &__item {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+    position: relative;
+    width: 100%;
+
+    @media screen and (min-width: 568px) {
+      width: calc((100% / 2) - 10px);
+      margin-bottom: 15px;
+    }
+
+    &__link {
+      background-size: cover;
+      border-radius: 5px;
+      border: 1px solid #1A1A22;
+      color: white;
+      display: flex;
+      margin-bottom: 5px;
+      overflow: hidden;
+      padding-top: calc((100% / 2) - 5px);
+      text-decoration: none;
+      width: calc((100% / 2) - 5px);
+    }
+
+    &__description {
+      font-size: 13px;
+      line-height: 1.3em;
+      overflow: hidden;
+      padding-left: 10px;
+      position: relative;
+      width: 50%;
+
+      & strong {
+        display: block;
+        margin-bottom: 5px;
+        color: white;
+      }
+    }
+
+    &__title {
+      display: none;
+    }
+  }
+}
