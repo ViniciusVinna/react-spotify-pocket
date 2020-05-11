@@ -1,0 +1,471 @@
+{
+  "href" : "https://api.spotify.com/v1/browse/categories/toplists/playlists?offset=0&limit=20",
+  "items" : [ {
+    "collaborative" : false,
+    "description" : "BENEE is on top of the Hottest 50!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M",
+    "id" : "37i9dQZF1DXcBWIGoYBM5M",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706f00000002874f41bba6bf0d121bfbe6b9",
+      "width" : null
+    } ],
+    "name" : "Today's Top Hits",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : null,
+    "snapshot_id" : "MTU4OTIyNTI2NywwMDAwMDNlZTAwMDAwMTcyMDUzNTIyOWEwMDAwMDE3MWYxYTRkMmM0",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks",
+      "total" : 50
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DXcBWIGoYBM5M"
+  }, {
+    "collaborative" : false,
+    "description" : "New music from Lil Tjay, Lil Durk and NAV.",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX0XUsuxWHRQd",
+    "id" : "37i9dQZF1DX0XUsuxWHRQd",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706f00000002f2eb01a04490661c6b3b69e6",
+      "width" : null
+    } ],
+    "name" : "RapCaviar",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : null,
+    "snapshot_id" : "MTU4OTIyMDI4NSwwMDAwMDQ2MTAwMDAwMTcyMDRlOTFhYmUwMDAwMDE3MjA0ZTkwMjY0",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX0XUsuxWHRQd/tracks",
+      "total" : 50
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DX0XUsuxWHRQd"
+  }, {
+    "collaborative" : false,
+    "description" : "The newest single from Weezer along with the top Rock songs you need to know!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXcF6B6QPhFDv"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXcF6B6QPhFDv",
+    "id" : "37i9dQZF1DXcF6B6QPhFDv",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706f00000002ca52c376391f61e73acb6938",
+      "width" : null
+    } ],
+    "name" : "Rock This",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : null,
+    "snapshot_id" : "MTU4ODkxMDUyMCwwMDAwMDI2YTAwMDAwMTcxZjI3Mjc3MGYwMDAwMDE3MWVmN2JlNTRl",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXcF6B6QPhFDv/tracks",
+      "total" : 50
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DXcF6B6QPhFDv"
+  }, {
+    "collaborative" : false,
+    "description" : "<a href=\"spotify:genre:edm_dance\">The dance music condition</a> with Topic.",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX4dyzvuaRJ0n"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4dyzvuaRJ0n",
+    "id" : "37i9dQZF1DX4dyzvuaRJ0n",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706f000000022281d42e52ded0fbbdb8838c",
+      "width" : null
+    } ],
+    "name" : "mint",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : null,
+    "snapshot_id" : "MTU4OTIzMjgzOSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4dyzvuaRJ0n/tracks",
+      "total" : 59
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n"
+  }, {
+    "collaborative" : false,
+    "description" : "Today's top country hits of the week, worldwide!  Cover: Thomas Rhett",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX1lVhptIYRda",
+    "id" : "37i9dQZF1DX1lVhptIYRda",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706f00000002e55cc48551148de18bd72ce8",
+      "width" : null
+    } ],
+    "name" : "Hot Country",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : null,
+    "snapshot_id" : "MTU4ODk0NjI1MCwwMDAwMDI4NDAwMDAwMTcxZjQ5M2FiNDAwMDAwMDE3MWVmZGRiNTYx",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX1lVhptIYRda/tracks",
+      "total" : 51
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DX1lVhptIYRda"
+  }, {
+    "collaborative" : false,
+    "description" : "Today's top Latin hits are right here, on ¡Viva Latino! Cover: Cali Y El Dandee",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX10zKzsJ2jva",
+    "id" : "37i9dQZF1DX10zKzsJ2jva",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706f000000025db981b946881e2f9965d17b",
+      "width" : null
+    } ],
+    "name" : "¡Viva Latino!",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : null,
+    "snapshot_id" : "MTU4ODkxMDQ2MCwwMDAwMDFkNDAwMDAwMTcxZjI3MThmYzkwMDAwMDE3MWYxYjg5YjYx",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX10zKzsJ2jva/tracks",
+      "total" : 50
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DX10zKzsJ2jva"
+  }, {
+    "collaborative" : false,
+    "description" : "The hottest R&B tunes!  Cover: Kehlani",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4SBhb3fqCJd",
+    "id" : "37i9dQZF1DX4SBhb3fqCJd",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706f0000000250b58c9a4e5de26bfb8c3193",
+      "width" : null
+    } ],
+    "name" : "Are & Be",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : null,
+    "snapshot_id" : "MTU4ODkxMTkyMSwwMDAwMDEzOTAwMDAwMTcxZjI4N2RhYWEwMDAwMDE3MWYyMmQ0MmM4",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4SBhb3fqCJd/tracks",
+      "total" : 45
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DX4SBhb3fqCJd"
+  }, {
+    "collaborative" : false,
+    "description" : "The hottest viral tracks in one playlist! Cover: DJ Khaled, Justin Bieber, Chance The Rapper and Quavo",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX44t7uCdkV1A"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX44t7uCdkV1A",
+    "id" : "37i9dQZF1DX44t7uCdkV1A",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706f00000002d1ab7dab89e2ef6722f23e37",
+      "width" : null
+    } ],
+    "name" : "Viral Hits",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : null,
+    "snapshot_id" : "MTU2NzY3NjM4OSwwMDAwMDA0YTAwMDAwMTY1N2JmNTkzZTkwMDAwMDE2ZDAwY2I1OGI5",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX44t7uCdkV1A/tracks",
+      "total" : 25
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DX44t7uCdkV1A"
+  }, {
+    "collaborative" : false,
+    "description" : "Your daily update of the most played tracks in United States right now.",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZEVXbLRQDuF5jeBp"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZEVXbLRQDuF5jeBp",
+    "id" : "37i9dQZEVXbLRQDuF5jeBp",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://charts-images.scdn.co/REGIONAL_US_DEFAULT.jpg",
+      "width" : null
+    } ],
+    "name" : "United States Top 50",
+    "owner" : {
+      "display_name" : "spotifycharts",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotifycharts"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotifycharts",
+      "id" : "spotifycharts",
+      "type" : "user",
+      "uri" : "spotify:user:spotifycharts"
+    },
+    "primary_color" : null,
+    "public" : null,
+    "snapshot_id" : "NjQyNTIwNTUyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZEVXbLRQDuF5jeBp/tracks",
+      "total" : 50
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZEVXbLRQDuF5jeBp"
+  }, {
+    "collaborative" : false,
+    "description" : "Your daily update of the most played tracks right now.",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZEVXbMDoHDwVN2tF"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZEVXbMDoHDwVN2tF",
+    "id" : "37i9dQZEVXbMDoHDwVN2tF",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://charts-images.scdn.co/REGIONAL_GLOBAL_DEFAULT.jpg",
+      "width" : null
+    } ],
+    "name" : "Global Top 50",
+    "owner" : {
+      "display_name" : "spotifycharts",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotifycharts"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotifycharts",
+      "id" : "spotifycharts",
+      "type" : "user",
+      "uri" : "spotify:user:spotifycharts"
+    },
+    "primary_color" : null,
+    "public" : null,
+    "snapshot_id" : "NjQyNTIwNTU3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZEVXbMDoHDwVN2tF/tracks",
+      "total" : 50
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZEVXbMDoHDwVN2tF"
+  }, {
+    "collaborative" : false,
+    "description" : "Your daily update of the most viral tracks in the world.",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZEVXbLiRSasKsNU9"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZEVXbLiRSasKsNU9",
+    "id" : "37i9dQZEVXbLiRSasKsNU9",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://charts-images.scdn.co/VIRAL_GLOBAL_DEFAULT.jpg",
+      "width" : null
+    } ],
+    "name" : "Global Viral 50",
+    "owner" : {
+      "display_name" : "spotifycharts",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotifycharts"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotifycharts",
+      "id" : "spotifycharts",
+      "type" : "user",
+      "uri" : "spotify:user:spotifycharts"
+    },
+    "primary_color" : null,
+    "public" : null,
+    "snapshot_id" : "NjQyNTI2NTM3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZEVXbLiRSasKsNU9/tracks",
+      "total" : 50
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZEVXbLiRSasKsNU9"
+  }, {
+    "collaborative" : false,
+    "description" : "Your daily update of the most viral tracks in United States.",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZEVXbKuaTI1Z1Afx"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZEVXbKuaTI1Z1Afx",
+    "id" : "37i9dQZEVXbKuaTI1Z1Afx",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://charts-images.scdn.co/VIRAL_US_DEFAULT.jpg",
+      "width" : null
+    } ],
+    "name" : "United States Viral 50",
+    "owner" : {
+      "display_name" : "spotifycharts",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotifycharts"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotifycharts",
+      "id" : "spotifycharts",
+      "type" : "user",
+      "uri" : "spotify:user:spotifycharts"
+    },
+    "primary_color" : null,
+    "public" : null,
+    "snapshot_id" : "NjQyNTI2NTM3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZEVXbKuaTI1Z1Afx/tracks",
+      "total" : 50
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZEVXbKuaTI1Z1Afx"
+  }, {
+    "collaborative" : false,
+    "description" : "Ariana Grande & Justin Bieber, Kehlani, Arizona Zervas, and more!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4JAvHpjipBk",
+    "id" : "37i9dQZF1DX4JAvHpjipBk",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706f000000029df270c6720e48de60903eaf",
+      "width" : null
+    } ],
+    "name" : "New Music Friday",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : null,
+    "snapshot_id" : "MTU4ODk0OTI0NCwwMDAwMDJkNzAwMDAwMTcxZjRjMTU5NTYwMDAwMDE3MWYyMTYyYmU0",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4JAvHpjipBk/tracks",
+      "total" : 102
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DX4JAvHpjipBk"
+  }, {
+    "collaborative" : false,
+    "description" : "Hot Country's Top 50 songs from 2018.  Congratulations to Florida Georgia Line.  Our top streaming artist of the year!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX6P1Nsk3wSZX"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX6P1Nsk3wSZX",
+    "id" : "37i9dQZF1DX6P1Nsk3wSZX",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706f000000024bbda0e88c2c24eaf12059f6",
+      "width" : null
+    } ],
+    "name" : "Hot Country - Top Tracks of 2018",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : null,
+    "snapshot_id" : "MTU4MzQ4NzcxMywwMDAwMDAwMjAwMDAwMTY3YTgxYzIxNDMwMDAwMDE3MGFmMzhmZjRl",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX6P1Nsk3wSZX/tracks",
+      "total" : 50
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DX6P1Nsk3wSZX"
+  } ],
+  "limit" : 20,
+  "next" : null,
+  "offset" : 0,
+  "previous" : null,
+  "total" : 14
+}

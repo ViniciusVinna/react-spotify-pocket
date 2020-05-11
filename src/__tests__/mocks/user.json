@@ -1,0 +1,26 @@
+{
+  "country" : "BR",
+  "display_name" : "Vinícius Ribeiro",
+  "email" : "vinicius.vrf@gmail.com",
+  "explicit_content" : {
+    "filter_enabled" : false,
+    "filter_locked" : false
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/user/vinicius_vinna"
+  },
+  "followers" : {
+    "href" : null,
+    "total" : 75
+  },
+  "href" : "https://api.spotify.com/v1/users/vinicius_vinna",
+  "id" : "vinicius_vinna",
+  "images" : [ {
+    "height" : null,
+    "url" : "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-1/1379221_581350871934797_451685568_n.jpg?_nc_cat=109&_nc_sid=0c64ff&_nc_ohc=wec7hq3c7qcAX-iIWuq&_nc_ht=scontent-ort2-1.xx&oh=fcba17a3129d08e87306b1414d464759&oe=5EDFF775",
+    "width" : null
+  } ],
+  "product" : "premium",
+  "type" : "user",
+  "uri" : "spotify:user:vinicius_vinna"
+}
